@@ -10,5 +10,5 @@ def warning(message) {
     echo "WARNING: ${message}"
 }
 
-call 'Logger'
-call()
+
+
